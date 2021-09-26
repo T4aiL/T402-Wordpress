@@ -5,6 +5,7 @@
 1. Hosting
 2. Instalacja
 3. wp-admin
+4. Szablony
 
 https://miroslawzelent.pl/kurs-php/
 
@@ -24,13 +25,6 @@ https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sha
 
 https://www.webhostingsecretrevealed.net/pl/blog/web-hosting-guides/free-hosting-sites/
 
-https://zebza.net/architektura-informacji-co-to-jest/
-
-https://www.elementtalks.com/articles/227-architektura-informacji-co-to-takiego/
-
-https://sempai.pl/blog/seo-copywriting/
-
-https://ux.marszalkowski.org/ux-vs-ui-czym-sie-rozni-ux-design-od-ui-design/
 
 ```
 ZADANIA:

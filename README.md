@@ -48,9 +48,7 @@ ZAD T40203: Zaplanuj i wykonaj serwis w Wordpress wykorzystując darmowy szablon
 Nie korzystaj z kreatorów (Elementor, Divi)
 
 ```
-POWINIENEŚ ZNAĆ
 
-WORDPRESS INSTALACJA
 
 -----------images
 

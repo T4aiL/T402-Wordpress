@@ -2,14 +2,9 @@
 
 #INFO
 
-
-1. Architektura informacji
-  3 aspekty IA
-  - kontekst
-  - informacje
-  - odbiorcy i ich model mentalny
-3. Copywrighting
-4. UX/UI (funkcja - forma) 
+1. Hosting
+2. Instalacja
+3. wp-admin
 
 https://miroslawzelent.pl/kurs-php/
 

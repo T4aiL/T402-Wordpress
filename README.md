@@ -9,7 +9,7 @@
   - informacje
   - odbiorcy i ich model mentalny
 3. Copywrighting
-4. UI/UX
+4. UX/UI (funkcja - forma) 
 
 https://miroslawzelent.pl/kurs-php/
 

@@ -33,6 +33,8 @@ https://www.elementtalks.com/articles/227-architektura-informacji-co-to-takiego/
 
 https://sempai.pl/blog/seo-copywriting/
 
+https://ux.marszalkowski.org/ux-vs-ui-czym-sie-rozni-ux-design-od-ui-design/
+
 ```
 ZADANIA:
 

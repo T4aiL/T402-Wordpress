@@ -36,16 +36,20 @@ ZAD T40201: Zainstaluj Wordpress na zdalnym serwerze
 ZAD T40202 Zbuduj system CMS dla prostego bloga z możliwością dodawania postów przez zalogowanych użytkowników. Post może zawierać obraz i czas dodania posta. Stwórz uproszczony system autoryzacji edytora (użytkownika) z poświadczeniami zdefiniowanymi w osobnym pliku php. Zadanie wykonane umieść w zdalnym repozytorium git
 
 ZAD T40203: Zaplanuj i wykonaj serwis w Wordpress wykorzystując darmowy szablon z następującej kategorii:
-- Portfolio fotograficzne
+- Portfolio fotograficzne, (Antek) (Włodek)
 - Kancelaria prawnicza,
+- Gazeta internetowa [Motorsport] (Michał)
 - Agencja nieruchomości,
 - Biuro podróży,
 - Portal informacyjny (gazeta internetowa)
 - Recenzje filmów,
-- Recencje gier
-- Fanpage Muzyczny
-- Fanpage gry komputerowej/mobilnej
-- Fanpage filmu
+- Recencje gier, (Marcin)
+- Fanpage Muzyczny,
+- Fanpage gry komputerowej/mobilnej (Kamil)
+- Fanpage filmu,
+- Agencja ochroniarska (Mikołaj)
+- Blog kulinarny (Konrad)
+- Szkoła sztuk walki (Dawid)
 
 Nie korzystaj z kreatorów (Elementor, Divi)
 

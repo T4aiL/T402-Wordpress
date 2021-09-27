@@ -17,6 +17,8 @@ https://developer.wordpress.org/
 
 https://www.templatemonster.com/
 
+https://www.templatki.net/
+
 https://www.youtube.com/watch?v=6dvtC6XxdIs
 
 https://www.youtube.com/watch?v=p0CYjMoXilo

@@ -52,6 +52,13 @@ ZAD T40203: Zaplanuj i wykonaj serwis w Wordpress wykorzystując darmowy szablon
 - Szkoła sztuk walki (Dawid)
 
 Nie korzystaj z kreatorów (Elementor, Divi)
+ 
+* Wyszukaj projekty referencyjne dla inspiracji (umieść zrzuty ekranu na google drive)
+* Wyszukaj szablony o podobnej tematyce (umieść zrzuty ekranu na google drive)
+* Zainstaluj i aktywuj wybrany i zaakceptowany szablon
+* Dostosuj ustawienia do swoich potrzeb w zakrtesie customizacji udostepnionym przez wybrany szablon
+* Wypełnij treściami zgodnie z zasadami Architektury informacji (copywrighting)
+* Udostepnij link do swojej witryny
 
 ```
 

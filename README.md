@@ -71,6 +71,7 @@ KRYTERIA OCENY
 EFEKTY:
 - [MYSZEMX - myszemx.000webhostapp.com](https://myszemx.000webhostapp.com)
 - [UCZCIWA STRONA - uczciwastrona.cba.pl](http://uczciwastrona.cba.pl)
+- [GAME FANPAGE - najlepszyfanpage.cba.pl](najlepszyfanpage.cba.pl)
 
 
 -----------images

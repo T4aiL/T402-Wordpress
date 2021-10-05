@@ -69,8 +69,8 @@ KRYTERIA OCENY
 ```
 
 EFEKTY:
-- (MYSZEMX)[myszemx.000webhostapp.com]
-- (UCZCIWA STRONA)[uczciwastrona.cba.pl]
+- (MYSZEMX)(myszemx.000webhostapp.com)
+- (UCZCIWA STRONA)(uczciwastrona.cba.pl)
 
 
 -----------images

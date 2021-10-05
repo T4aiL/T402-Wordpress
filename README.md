@@ -46,7 +46,7 @@ ZAD T40203: Zaplanuj i wykonaj serwis w Wordpress wykorzystując darmowy szablon
 - Recencje gier, (Marcin)
 - Fanpage Muzyczny,
 - Fanpage gry komputerowej/mobilnej (Kamil)
-- Fanpage filmu,
+- Fanpage filmu (Łukasz),
 - Agencja ochroniarska (Mikołaj)
 - Blog kulinarny (Konrad)
 - Szkoła sztuk walki (Dawid)

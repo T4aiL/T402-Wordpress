@@ -67,6 +67,8 @@ KRYTERIA OCENY
 3. Architektura informacji i copywrighting (zgodność z wybraną tematyką)
 4. Obecność stron statycznych (o nas, polityka prywatności, kontakt)
 ```
+(MYSZEMX)[myszemx.000webhostapp.com]
+(UCZCIWA STRONA)[uczciwastrona.cba.pl]
 
 
 -----------images

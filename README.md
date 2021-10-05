@@ -72,7 +72,7 @@ EFEKTY:
 - [MYSZEMX - myszemx.000webhostapp.com](https://myszemx.000webhostapp.com)
 - [UCZCIWA STRONA - uczciwastrona.cba.pl](http://uczciwastrona.cba.pl)
 - [GAME FANPAGE - najlepszyfanpage.cba.pl](najlepszyfanpage.cba.pl)
-- [KARATE - https://sforcraft.pl/wordpress](https://sforcraft.pl/wordpress)
+- [KARATE - http://sforcraft.pl/wordpress](https://sforcraft.pl/wordpress)
 
 
 -----------images

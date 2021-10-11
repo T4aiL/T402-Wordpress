@@ -74,6 +74,7 @@ EFEKTY:
 - [GAME FANPAGE - najlepszyfanpage.cba.pl](najlepszyfanpage.cba.pl)
 - [KARATE - http://sforcraft.pl/wordpress](https://sforcraft.pl/wordpress)
 - [FANPAGE Szybkich i wściekłych](http://faf9.cba.pl)
+- [Portfolio](https://vgportfolio.000webhostapp.com)
 
 
 -----------images

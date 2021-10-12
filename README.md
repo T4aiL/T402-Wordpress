@@ -75,7 +75,8 @@ EFEKTY:
 - [KARATE - http://sforcraft.pl/wordpress](https://sforcraft.pl/wordpress)
 - [FANPAGE Szybkich i wściekłych](http://faf9.cba.pl)
 - [Portfolio](https://vgportfolio.000webhostapp.com)
-- [SECURITY AGENCY](joungzbigi.cba.pl)
+- [SECURITY AGENCY](http://youngzbigi.cba.pl)
+- [KULINARIA](http://zdz.000webhostapp.com)
 
 
 -----------images

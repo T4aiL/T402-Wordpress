@@ -76,7 +76,7 @@ EFEKTY:
 - [FANPAGE Szybkich i wściekłych](http://faf9.cba.pl)
 - [Portfolio](https://vgportfolio.000webhostapp.com)
 - [SECURITY AGENCY](http://youngzbigi.cba.pl)
-- [KULINARIA](http://zdz.000webhostapp.com)
+- [KULINARIA](https://zdz.000webhostapp.com)
 
 
 -----------images

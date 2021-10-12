@@ -64,7 +64,7 @@ KRYTERIA OCENY
 
 1. Pliki opublikowane na github (zrzuty wzoru szablonu, zrzuty implementacji)
 2. Zgodność implementacji z wzorem szablonu (zastosowanie funkcjonalności oferowanych przez szablon)
-3. Architektura informacji i copywrighting (zgodność z wybraną tematyką)
+3. Architektura informacji i copywriting (zgodność z wybraną tematyką)
 4. Obecność stron statycznych (o nas, polityka prywatności, kontakt)
 ```
 

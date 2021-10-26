@@ -28,6 +28,7 @@ https://drive.google.com/drive/folders/1FCn1K3AvZdta3JRNnfCFUlSqAyMWgxNe?usp=sha
 https://www.webhostingsecretrevealed.net/pl/blog/web-hosting-guides/free-hosting-sites/
 
 
+
 ```
 ZADANIA:
 
@@ -78,6 +79,7 @@ EFEKTY:
 - [SECURITY AGENCY](http://youngzbigi.cba.pl)
 - [KULINARIA](https://projektzdz.000webhostapp.com)
 - [PORTFOLIO](http://projektaw1.000webhostapp.com/)
+- [LEAGUE OF LEGENDS](https://ieagueofllegends.000webhostapp.com/)
 
 
 -----------images
